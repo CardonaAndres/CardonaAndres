@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">- <strong>JavaScript Specialist:</strong> Dominio avanzado del lenguaje y su ecosistema (ES6+, Node.js, frameworks)<br><br>- Frontend: React.js, Tailwind CSS<br><br>- Backend: Node.js, Express.js, Python, FastAPI, PHP, Laravel<br><br>- Bases de datos: MySQL, MongoDB<br><br>- Herramientas y DevOps: Git, Docker, CI/CD</p>
+<p align="left">- <strong>JavaScript Specialist:</strong> Dominio avanzado del lenguaje y su ecosistema (ES6+, Node.js, frameworks)<br><br>- Frontend: React.js / ts, Tailwind CSS<br><br>- Backend: Node.js, Express.js, NestJS, Python, FastAPI, PHP, Laravel<br><br>- Bases de datos: MySQL, MongoDB<br><br>- Herramientas y DevOps: Git, Docker, CI/CD</p>
 
 ###
 
