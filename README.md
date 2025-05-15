@@ -1,77 +1,97 @@
-<h1 align="left">Hey 👋 Bienvenido a mi mundo de código!</h1>
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> El arte del código hecho realidad
 
-###
+## 🧑‍💻 Sobre mí
 
-<h2 align="left">Sobre mí</h2>
+¡Hola! Soy **Andrés Cardona**, desarrollador Full Stack con especialización en arquitecturas backend y dominio del ecosistema JavaScript/TypeScript. Con experiencia de 1 año y 5 meses creando soluciones digitales de alto impacto, me enfoco en desarrollar sistemas robustos, escalables y de rendimiento excepcional que transforman conceptos en productos tecnológicos innovadores.
 
-###
+Mi filosofía combina arquitecturas sólidas con metodologías ágiles para entregar experiencias digitales que destacan tanto por su usabilidad como por su excelencia técnica.
 
-<p align="left">👋 ¡Hola! Soy Andrés Cardona, un desarrollador de software full stack con 1 año de experiencia, especializado en desarrollo backend y <strong>experto en JavaScript y su ecosistema</strong>. Me apasiona crear soluciones eficientes, escalables y bien estructuradas, utilizando tecnologías modernas para impulsar productos digitales de alto impacto.<br><br>Me destaco por mi capacidad de diseñar arquitecturas sólidas, optimizar el rendimiento de las aplicaciones y garantizar la mejor experiencia tanto para los usuarios como para los administradores de sistemas.</p>
+## 🛠️ Stack Tecnológico
 
-###
+### Frontend
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-<h2 align="left">🚀 Tecnologías que domino</h2>
+### Backend
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 
-###
+### Bases de Datos
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-<p align="left">- <strong>JavaScript Specialist:</strong> Dominio avanzado del lenguaje y su ecosistema (ES6+, Node.js, frameworks)<br><br>- Frontend: React.js / ts, Tailwind CSS<br><br>- Backend: Node.js, Express.js, NestJS, Python, FastAPI, PHP, Laravel<br><br>- Bases de datos: MySQL, MongoDB<br><br>- Herramientas y DevOps: Git, Docker, CI/CD</p>
+### DevOps & Herramientas
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/-CI/CD-4285F4?style=flat-square&logo=github-actions&logoColor=white)
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 
-###
+## 💪 Especialización Técnica
 
-<h2 align="left">📌 Proyectos destacados</h2>
+### JavaScript Specialist
+Dominio avanzado del lenguaje y su ecosistema (ES6+, Node.js, frameworks modernos) con enfoque en arquitecturas orientadas a eventos y desarrollo asíncrono.
 
-###
+### TypeScript Expert
+Mi especialización en TypeScript incluye:
 
-<p align="left">🔹 <strong>Reservify</strong><br>📌 Sistema de reservas para restaurantes con interfaz intuitiva para clientes y administradores.<br>🛠️ Stack: JavaScript, React, Tailwind CSS, Python, FastAPI, MySQL, Docker.<br><br>🔹 <strong>UrbanWheels</strong><br>📌 Sistema avanzado para la gestión de flotas de vehículos y reservas.<br>🛠️ Stack: JavaScript, React, Tailwind CSS, Node.js, Express.js, MySQL.<br><br>🔹 <strong>PymesWithFactus</strong><br>📌 Sistema de facturación electrónica para Colombia con el formato obligatorio de la DIAN.<br>🛠️ Stack: JavaScript, React, Tailwind CSS, Node.js, Express.js, MySQL, Docker.<br><br>🔹 <strong>Cuidado y Armonía</strong><br>📌 Landing page para un salón de belleza, mejorando su visibilidad y reservas en línea.<br>🛠️ Stack: JavaScript, React, Tailwind CSS.<br><br>🔹 <strong>Nexo Migratorio LLC</strong><br>📌 Plataforma de asesoría migratoria con un impacto positivo en la captación de clientes.<br>🛠️ Stack: JavaScript, React, Tailwind CSS.</p>
+- **Arquitecturas escalables** con patrones avanzados (Factory, Repository, Dependency Injection)
+- **TypeScript en backend** con NestJS y Express para APIs robustas y tipadas
+- **React + TypeScript** para interfaces de usuario mantenibles y libres de errores
+- **Interfaces y tipos avanzados** que garantizan código predecible y seguro
+- **Generics, utility types y decoradores** para soluciones elegantes
+- **Integración con ORM** como TypeORM y Prisma para interacciones tipo-seguras con bases de datos
 
-###
+## 🚀 Proyectos Destacados
 
-<h3 align="left">💡 Mi propuesta de valor</h3>
+### Belleza Perfecta
+Sistema administrativo integral para la gestión empresarial del sector belleza.
+- **Stack:** ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+- **Highlights:** Gestión de clientes, inventario, citas, reportes y facturación integrada
 
-###
+### GoldenManager
+Plataforma analítica en tiempo real para predicción y comercialización del oro en Colombia.
+- **Stack:** ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+- **Highlights:** Análisis en tiempo real, IA predictiva, dashboard interactivo, alertas personalizadas
 
-<p align="left">✔️ <strong>Especialista en JavaScript:</strong> Dominio avanzado del lenguaje y sus frameworks principales tanto en frontend como backend.<br><br>✔️ <strong>Arquitecturas backend robustas:</strong> Diseño sistemas escalables y optimizados.<br><br>✔️ <strong>Desarrollo full stack:</strong> Experiencia completa desde la interfaz hasta la lógica del servidor.<br><br>✔️ <strong>Soluciones de impacto:</strong> Desarrollo aplicaciones que optimizan procesos y transforman negocios.</p>
+### Reservify
+Sistema de reservas para restaurantes con experiencia intuitiva para clientes y panel administrativo completo.
+- **Stack:** ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+- **Highlights:** Integración con pasarelas de pago, notificaciones en tiempo real, analítica de reservas
 
-###
+### UrbanWheels
+Plataforma de gestión para flotas de vehículos con sistema de reservas inteligente.
+- **Stack:** ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+- **Highlights:** Sistema de geocodificación, cálculo de rutas optimizadas, estadísticas de uso
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/wordpress/21759B" height="40" alt="wordpress logo"  />
-</div>
+### PymesWithFactus
+Sistema de facturación electrónica certificado DIAN para el mercado colombiano.
+- **Stack:** ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+- **Highlights:** Firma digital, validación XML, integración con servicios web SOAP de la DIAN
 
-###
+## 💯 Mi Propuesta de Valor
 
-<h3 align="left">📫 Conoce más sobre mi perfil profesional </h3>
+- **Arquitecturas TypeSafe:** Sistemas robustos que aprovechan al máximo el sistema de tipos
+- **Full Stack con enfoque backend:** Experiencia integral con énfasis en la lógica de negocio
+- **Optimización de rendimiento:** Aplicaciones rápidas y eficientes con excelente UX
+- **Código limpio y mantenible:** Estructuras modulares para fácil escalabilidad
+- **Soluciones orientadas a resultados:** Enfoque pragmático para resolver problemas de negocio reales
 
-###
+## 📫 Conectemos
 
-<p align="left">Explora mi portafolio completo: <a href="https://portfolio-cardonaandres-projects.vercel.app/" target="_blank">https://portfolio-cardonaandres-projects.vercel.app/</a></p>
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABmJLR0QA/wD/AP+gvaeTAAABpElEQVRIie2Tv0tcQRDHP3PnT9EgaqHBSoOVBIQQJLU2QgQFGxsLEVKmSWslJPgPWFpaWIlYKBaaLmBhI4iCf4IQTKNisIjvbGbf7rP4xd2TtzzwYHdm5zvfN7s7s/DYI/nQsV+GTPUV8AKYA15vL79E5Ij4D1X7BfwxxlxkQVQBqrXaE0SWgXfA08CULuAHIp+vTk9/Zwao1usviawAcwUcLwJfgG1rresBrq2dwVkHZhLDI+C35XRRdwBVB0wDE8CxwkIIfTIAaK1/Bb4BYwmPQTvfHcBKFnyiKIpVoBkgrWgvf+kAYqWLwClw8d9Zdy+6qOoHRCqOF/YF+KCqCzHvPPAG2AZarYvYa9N87dTjL/DZGLPqWlJvvMzI6BsRCcf/rBvGfP3beGZ4D8Cmh4fjhFf35LE1xhsRmQFe9TgMBt7ZwXrRUuHu50PAeWBgG2MGWWtfegHKnHLJzBKgnYaJV07J0UbLwjjA/rX7aO8l86vAJLBhjNkYPkA0BrQHDoDoJwK0ZQCOYgBF0S9VXbXW1koDBMVvgTeivC8N0JGoPzm8B/8AA15S6NWYmhsAAAAASUVORK5CYII=)](https://portfolio-cardonaandres-projects.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/andrés-cardona-18418a206)
 
-###
+---
+
+> "El software es el gran intermediario silencioso de nuestro tiempo; no debería fallar, debería ser inmediatamente comprensible y estar bien documentado." – Robert C. Martin
