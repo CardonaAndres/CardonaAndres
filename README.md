@@ -2,7 +2,7 @@
 
 ## 🧑‍💻 Sobre mí
 
-¡Hola! Soy **Andrés Cardona**, desarrollador Full Stack con especialización en arquitecturas backend y dominio del ecosistema JavaScript/TypeScript. Con experiencia de 1 año y 5 meses creando soluciones digitales de alto impacto, me enfoco en desarrollar sistemas robustos, escalables y de rendimiento excepcional que transforman conceptos en productos tecnológicos innovadores.
+¡Hola! Soy **Andrés Cardona**, desarrollador Full Stack con especialización en arquitecturas backend y dominio del ecosistema JavaScript/TypeScript. Con experiencia de 1 año y 6 meses creando soluciones digitales de alto impacto, me enfoco en desarrollar sistemas robustos, escalables y de rendimiento excepcional que transforman conceptos en productos tecnológicos innovadores.
 
 Mi filosofía combina arquitecturas sólidas con metodologías ágiles para entregar experiencias digitales que destacan tanto por su usabilidad como por su excelencia técnica.
 
