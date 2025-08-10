@@ -35,7 +35,6 @@ Mi filosofía combina arquitecturas sólidas con metodologías ágiles para entr
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/-CI/CD-4285F4?style=flat-square&logo=github-actions&logoColor=white)
-![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 
 ## 💪 Especialización Técnica
 
