@@ -18,7 +18,6 @@ Mi filosofía combina arquitecturas sólidas con metodologías ágiles para entr
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
@@ -38,40 +37,42 @@ Mi filosofía combina arquitecturas sólidas con metodologías ágiles para entr
 
 ## 💪 Especialización Técnica
 
-### JavaScript Specialist
-Dominio avanzado del lenguaje y su ecosistema (ES6+, Node.js, frameworks modernos) con enfoque en arquitecturas orientadas a eventos y desarrollo asíncrono.
-
-### TypeScript Expert
-Mi especialización en TypeScript incluye:
+### JavaScript / TypeScript Specialist
+Dominio avanzado del ecosistema JavaScript (ES6+) y especialización en TypeScript, con enfoque en arquitecturas orientadas a eventos y desarrollo asíncrono. Mi experiencia incluye:
 
 - **Arquitecturas escalables** con patrones avanzados (Factory, Repository, Dependency Injection)
-- **TypeScript en backend** con NestJS y Express para APIs robustas y tipadas
-- **React + TypeScript** para interfaces de usuario mantenibles y libres de errores
-- **Interfaces y tipos avanzados** que garantizan código predecible y seguro
-- **Generics, utility types y decoradores** para soluciones elegantes
+- **Backend robusto** con NestJS y Express para APIs tipadas y de alto rendimiento
+- **Frontend mantenible** con React + TypeScript para interfaces libres de errores
+- **Tipado avanzado** con interfaces, generics, utility types y decoradores
 - **Integración con ORM** como TypeORM y Prisma para interacciones tipo-seguras con bases de datos
+- **Desarrollo full-stack** aprovechando al máximo el sistema de tipos para código predecible y seguro
 
 ## 🚀 Proyectos Destacados
 
-### Belleza Perfecta
-Sistema administrativo integral para la gestión empresarial del sector belleza.
-- **Stack:** ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-- **Highlights:** Gestión de clientes, inventario, citas, reportes y facturación integrada
+### New Stetic - SST
+Sistema basado en microservicios para el area de Seguridad y Salud en el Trabajo de New Stetic S.A para la gestión de personal, exámenes médicos, inspecciones, accidentalidad y equipos de protección personal.
+- **Stack:** ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white) ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+- **Highlights:** Digitalización completa de procesos de SST, mejorando trazabilidad y cumplimiento legal.
 
-### Reservify
-Sistema de reservas para restaurantes con experiencia intuitiva para clientes y panel administrativo completo.
-- **Stack:** ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-- **Highlights:** Integración con pasarelas de pago, notificaciones en tiempo real, analítica de reservas
-
-### UrbanWheels
-Plataforma de gestión para flotas de vehículos con sistema de reservas inteligente.
-- **Stack:** ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-- **Highlights:** Sistema de geocodificación, cálculo de rutas optimizadas, estadísticas de uso
+### BuyOrder - New Stetic
+Sistema basado en microservicios para el area de compras de New Stetic S.A para la gestión y seguimiento de órdenes de compra nacionales (OCN), mejorando la comunicación con proveedores, el control logístico del almacén y la calificación del cumplimiento de los proveedores.
+- **Stack:** ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+- **Highlights:** Automatización del seguimiento de órdenes de compra, mejora en la comunicación con proveedores y optimización del control logístico.
 
 ### PymesWithFactus
 Sistema de facturación electrónica certificado DIAN para el mercado colombiano.
 - **Stack:** ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-- **Highlights:** Firma digital, validación XML, integración con servicios web SOAP de la DIAN
+- **Highlights:** Firma digital, validación XML, automatizó el proceso de facturación y mejoró el cumplimiento con la DIAN.
+
+### Belleza Perfecta
+Sistema administrativo integral para la gestión empresarial del sector belleza.
+- **Stack:** ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+- **Highlights:** Gestión de clientes, inventario, citas, reportes y facturación integrada.
+
+### Reservify
+Sistema de reservas para restaurantes con experiencia intuitiva para clientes y panel administrativo completo.
+- **Stack:** ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+- **Highlights:** Integración con pasarelas de pago, notificaciones en tiempo real, analítica de reservas.
 
 ## 💯 Mi Propuesta de Valor
 
