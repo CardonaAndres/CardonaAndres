@@ -78,15 +78,15 @@ Dominio avanzado del ecosistema JavaScript (ES6+) y especialización en TypeScri
 <summary><strong>🏥 New Stetic - SST</strong> (Sistema de Seguridad y Salud en el Trabajo)</summary>
 <br>
   
-**Sistema basado en microservicios** para la gestión integral de SST en New Stetic S.A, abarcando personal, exámenes médicos, inspecciones, accidentalidad y EPP.
+**Sistema basado en microservicios** para el area de Seguridad y Salud en el Trabajo de New Stetic S.A para la gestión de personal, exámenes médicos, inspecciones, accidentalidad y equipos de protección personal.
 
 **Stack Tecnológico:**
-- Frontend: React + TypeScript + Tailwind CSS
+- Frontend: React + Tailwind CSS
 - Backend: Node.js + Express + NestJS
 - Base de Datos: SQL Server
-- DevOps: Docker
+- DevOps: Docker - Docker Compose
 
-**Impacto:** Digitalización completa de procesos de SST, mejorando trazabilidad y cumplimiento legal en un 85%.
+**Impacto:** Digitalización completa de procesos de SST, mejorando trazabilidad y cumplimiento legal en un 100%.
 
 </details>
 
@@ -94,13 +94,13 @@ Dominio avanzado del ecosistema JavaScript (ES6+) y especialización en TypeScri
 <summary><strong>📦 BuyOrder - New Stetic</strong> (Sistema de Gestión de Compras)</summary>
 <br>
   
-**Plataforma de microservicios** para la gestión y seguimiento de órdenes de compra nacionales (OCN), optimizando la comunicación con proveedores y control logístico.
+**Plataforma de microservicios** para el area de compras de New Stetic S.A para la gestión y seguimiento de órdenes de compra nacionales (OCN), mejorando la comunicación con proveedores, el control logístico del almacén y la calificación del cumplimiento de los proveedores.
 
 **Stack Tecnológico:**
 - Frontend: React + TypeScript + Tailwind CSS
 - Backend: Node.js + Express
 - Base de Datos: SQL Server
-- DevOps: Docker
+- DevOps: Docker - Docker Compose
 
 **Impacto:** Automatización del 90% del seguimiento de órdenes, mejorando la comunicación con proveedores y eficiencia logística.
 
@@ -123,7 +123,7 @@ Dominio avanzado del ecosistema JavaScript (ES6+) y especialización en TypeScri
 </details>
 
 <details>
-<summary><strong>💄 Belleza Perfecta</strong> (Sistema Administrativo Integral)</summary>
+<summary><strong>💄 Belleza Perfecta</strong> (Sistema Administrativo para la gestión empresarial del sector belleza.)</summary>
 <br>
   
 **Plataforma completa** para la gestión empresarial del sector belleza con módulos integrados.
@@ -132,7 +132,7 @@ Dominio avanzado del ecosistema JavaScript (ES6+) y especialización en TypeScri
 - Frontend: React + TypeScript + Tailwind CSS
 - Backend: Node.js + NestJS
 - Base de Datos: MySQL
-- DevOps: Docker
+- DevOps: Docker - Docker Compose
 
 **Características:** Gestión de clientes, inventario, citas, reportes y facturación integrada.
 
@@ -142,7 +142,7 @@ Dominio avanzado del ecosistema JavaScript (ES6+) y especialización en TypeScri
 <summary><strong>🍽️ Reservify</strong> (Sistema de Reservas Gastronómicas)</summary>
 <br>
   
-**Plataforma de reservas** para restaurantes con experiencia intuitiva para clientes y panel administrativo completo.
+**Plataforma de reservas** para restaurante con experiencia intuitiva para clientes y panel administrativo completo.
 
 **Stack Tecnológico:**
 - Frontend: React + JavaScript + Tailwind CSS
@@ -154,6 +154,20 @@ Dominio avanzado del ecosistema JavaScript (ES6+) y especialización en TypeScri
 
 </details>
 
+<details>
+<summary><strong>🚗 UrbanWheels</strong> (Gestión integral de flota, reservas y clientes.)</summary>
+<br>
+  
+**Sistema avanzado** para la gestión de flotas de vehículos, reservas y clientes, que mejora la eficiencia operativa y la experiencia del usuario.
+
+**Stack Tecnológico:**
+- Frontend: React + Tailwind CSS
+- Backend: Node.js + Express.js
+- Base de Datos: MySQL
+
+**Características:** Mejoró la eficiencia operativa y redujo los errores en reservas y gestión de flota.
+
+</details>
 ---
 
 ## 💯 Mi Propuesta de Valor
