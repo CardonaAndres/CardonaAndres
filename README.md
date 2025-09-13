@@ -3,9 +3,9 @@
 # 🚀 Andrés Cardona
 ### Full Stack Developer | TypeScript Architect | Digital Solutions Engineer
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=00D4FF&center=true&width=600&lines=Crafting+scalable+architectures+with+TypeScript;Building+the+future%2C+one+commit+at+a+time;Transforming+complex+ideas+into+elegant+code;2+years+turning+concepts+into+reality)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=00D4FF&center=true&width=600&lines=Crafting+scalable+architectures+with+TypeScript;Building+the+future%2C+one+commit+at+a+time;Transforming+complex+ideas+into+elegant+code;1.5+years+turning+concepts+into+reality)](https://git.io/typing-svg)
 
-¡Hola! Soy **Andrés Cardona**, desarrollador Full Stack con especialización en arquitecturas backend y dominio del ecosistema JavaScript/TypeScript. Con experiencia de 2 años creando soluciones digitales de alto impacto, me enfoco en desarrollar sistemas robustos, escalables y de rendimiento excepcional que transforman conceptos en productos tecnológicos innovadores.
+¡Hola! Soy **Andrés Cardona**, desarrollador Full Stack con especialización en arquitecturas backend y dominio del ecosistema JavaScript/TypeScript. Con experiencia de 1 año y 6 meses creando soluciones digitales de alto impacto, me enfoco en desarrollar sistemas robustos, escalables y de rendimiento excepcional que transforman conceptos en productos tecnológicos innovadores.
 
 Mi filosofía combina arquitecturas sólidas con metodologías ágiles para entregar experiencias digitales que destacan tanto por su usabilidad como por su excelencia técnica.
 
@@ -216,6 +216,3 @@ Dominio avanzado del ecosistema JavaScript (ES6+) y especialización en TypeScri
 ⭐ **¡Si te gusta mi trabajo, no olvides dar una estrella a mis repositorios!** ⭐
 
 </div>
-
-
-
