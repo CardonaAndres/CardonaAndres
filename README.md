@@ -21,9 +21,9 @@ Mi filosofía combina arquitecturas sólidas con metodologías ágiles para entr
 <tr>
 <td align="center" width="25%">
 <h3>🎨 Frontend</h3>
-<img src="https://skillicons.dev/icons?i=typescript,javascript,react,astro" />
+<img src="https://skillicons.dev/icons?i=typescript,javascript,astro" />
 <br>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,next,tailwind,bootstrap" />
 </td>
 <td align="center" width="25%">
 <h3>⚙️ Backend</h3>
