@@ -82,7 +82,7 @@ Bots de WhatsApp con IA · Prompt engineering · Flujos con estado en Redis · I
 ### 🔥 JavaScript / TypeScript
 Dominio avanzado del ecosistema JavaScript (ES6+) y TypeScript, con enfoque en arquitecturas orientadas a eventos y desarrollo asíncrono.
 
-- **Arquitecturas escalables** con patrones de diseño (Factory, Repository, Dependency Injection)
+- **Arquitecturas escalables** con patrones de diseño (Factory, Strategy, Repository, Dependency Injection)
 - **Backend robusto** con NestJS y Express para APIs tipadas y de alto rendimiento
 - **Frontend mantenible** con React + TypeScript
 - **Tipado avanzado**: interfaces, generics, utility types y decoradores
