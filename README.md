@@ -48,7 +48,7 @@ Manejo el ciclo de vida completo del software: desde el diseño de arquitecturas
 <br>
 <img src="https://skillicons.dev/icons?i=python,fastapi,php,laravel" />
 <br>
-<sub>JSON:API · REST · Microservicios</sub>
+<sub>JSON:API · REST · Escalabilidad y mantenibilidad</sub>
 </td>
 <td align="center" width="25%">
 <h3>🗄️ Datos</h3>
